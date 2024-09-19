@@ -54,6 +54,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: black;
     font-size: medium;
+    border-radius: 10px;
     font-weight: bold;
     height: 45px;
     width: 150px;
